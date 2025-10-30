@@ -1,3 +1,6 @@
+Tensae Aschalew  
+GSR/3976/17
+
 Parallel Programming: Assignment 1
 Notes: You may discuss the problems with your peers but the submitted work must be your own
 work. No late assignment will be accepted. Please submit your answers through blackboard. This
